@@ -1,3 +1,5 @@
+import pandas as pd
+from azure.storage.blob import BlobServiceClient
 
 # sample code covers in creating a append blob and appending contents
 
